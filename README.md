@@ -8,158 +8,176 @@ All the datasets used free to use for research purposes, although some require a
 
 ### Dataset sources
 #### EmoBank
-- Source: EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis.
-https://aclanthology.org/E17-2092/
-- Ropository: https://github.com/JULIELab/EmoBank
+- **Source:** EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis
+  - https://aclanthology.org/E17-2092/
+- **Repository:** https://github.com/JULIELab/EmoBank
 
 #### IEMOCAP
-- Source: 
-
-- Ropository: 
-
-#### EmoTales
-- Source: 
-
-- Ropository: 
+- **Source:** IEMOCAP: Interactive emotional dyadic motion capture database
+  - https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
+- **Repository:** https://sail.usc.edu/iemocap/iemocap_release.htm
+  - To obtain the IEMOCAP data you need to fill out an electronic release form.
 
 #### Facebook Posts
-- Source: 
+- **Source:** Modelling Valence and Arousal in Facebook posts
+  - https://aclanthology.org/W16-0404/https://aclanthology.org/W16-0404/
+- **Repository:** https://github.com/wwbp/additional_data_sets/tree/master/valence_arousal
 
-- Ropository: 
+#### EmoTales
+- **Source:** EmoTales: creating a corpus of folk tales with emotional annotations
+  - https://link.springer.com/article/10.1007/s10579-011-9140-5
+- **Repository:** http://nil.fdi.ucm.es/?q=node/458
 
-#### 
-- Source: 
+#### ANET
+- **Source:** 
+  - https://csea.phhp.ufl.edu/media/anetmessage.html
+- **Repository:** https://csea.phhp.ufl.edu/media/anetmessage.html
+  - To obtain the ANET data you need to fill out an electronic release form.
 
-- Ropository: 
+#### PANIG
+- **Source:** 
+  - https://link.springer.com/article/10.3758/s13428-015-0581-4
+- **Repository:** 
 
-#### 
-- Source: 
+#### COMETA sentences
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### COMETA stories
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### CVAT
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### CVAI
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### ANPST
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### MAS
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### Yee
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### Ćoso et al.
+- **Source:** 
+  - 
+- **Repository:** 
+ 
+#### Moors et al.
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### Verheyen et al.
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### NRC-VAD
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### Warriner et al.
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### Scott et al.
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### Söderholm et al.
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### Eilola et al.
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### FAN
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### FEEL
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### BAWL-R
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
-#### 
-- Source: 
+#### ANGST
+- **Source:**
+  - 
+- **Repository:**
 
-- Ropository: 
+#### LANG
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### Italian ANEW
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### Xu et al.
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### CVAW
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### ANPW_R
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### NAWL
+- **Source:** 
+  - 
+- **Repository:** 
 
-- Ropository: 
+#### Portuguese ANEW
+- **Source:** 
+  - 
+- **Repository:** 
 
-#### 
-- Source: 
+#### Stadthagen-Gonzalez et al.
+- **Source:** Norms of valence and arousal for 14,031 Spanish words
+https://link.springer.com/article/10.3758/s13428-015-0700-2#Sec16
+- **Repository:** https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-015-0700-2/MediaObjects/13428_2015_700_MOESM1_ESM.csv
 
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
-
-#### 
-- Source: 
-
-- Ropository: 
+#### Kapucu et al.
+- **Source:**
+  - 
+- **Repository:**
 
 
 
