@@ -4,9 +4,20 @@ Repository for Quantifying Valence and Arousal in Text with Multilingual Pre-tra
 
 ## Dataset
 The dataset proposed in this paper was built collecting 34 different public datasets of annotated data for the emotional dimensions of Valence and Arousal.
-All the datasets used free to use for research purposes, although some require an authorization to use, and/or individual acceptance of the respective terms of use. For this reason, we cannot publicly provide the dataset we used to train our models. The procedure used and the dataset sources are detailed below.
+All the datasets used free to use for research purposes, although some require an authorization to use, and/or individual acceptance of the respective terms of use. For this reason, we cannot publicly provide the dataset we used to train our models. 
 
-### Dataset sources
+As detailed in the Paper, our dataset is a .csv file with three columns, namely "text", "valence", and "arousal".
+To reproduce our dataset, follow this procedure:
+- Retrieve the 34 original datasets from the Dataset Sorces below. The datasets come in various different file formats, such as .csv, .xlsx, .txt, etc.
+- Filter the relevant data:
+  - **text**: Word or short text content
+  - **valence** and **arousal**: We simply used the Valence and Arousal Mean values.
+- Normalize the Valence and Arousal scores between **zero** and **one**, using the following formula.
+  - $z_i = (x_i - \textrm{min}(x)) / (\textrm{max}(x) - \textrm{min}(x))$
+  - $z_i$ denotes the normalized value, $x_i$ the original value, and $\textrm{min}$ and $\textrm{max}$ denote the extremes of the scales in which the original scores were rated on.
+
+
+### Dataset Sources
 #### EmoBank
 - **Source:** EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis
   - https://aclanthology.org/E17-2092/
@@ -216,4 +227,11 @@ All the datasets used free to use for research purposes, although some require a
 
 ## Models
 
+#### DistilBERT
+https://drive.google.com/drive/folders/1a3ToFHaGQxxAPI4dXc_shUrjROj7OrKt?usp=share_link
 
+#### XLM-RoBERTa-base
+https://drive.google.com/drive/folders/1CTgIEIDNHhV75qQ7-uovt6oXkiUIAVH8?usp=share_link
+
+#### XLM-RoBERTa-large
+https://drive.google.com/drive/folders/1BzdVmN51f33NHrdemJajz67MmlZljB2J?usp=share_link
