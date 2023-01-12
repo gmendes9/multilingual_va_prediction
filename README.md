@@ -4,7 +4,7 @@ Repository for Quantifying Valence and Arousal in Text with Multilingual Pre-tra
 
 ## Dataset
 The dataset proposed in this paper was built collecting 34 different public datasets of annotated data for the emotional dimensions of Valence and Arousal.
-All the datasets used free to use for research purposes, although some require an authorization to use. For this reason, we cannot publicly provide the dataset we used to train our models. The procedure used and the dataset sources are detailed below.
+All the datasets used free to use for research purposes, although some require an authorization to use, and/or individual acceptance of the respective terms of use. For this reason, we cannot publicly provide the dataset we used to train our models. The procedure used and the dataset sources are detailed below.
 
 ### Dataset sources
 #### EmoBank
@@ -29,80 +29,85 @@ All the datasets used free to use for research purposes, although some require a
 - **Repository:** http://nil.fdi.ucm.es/?q=node/458
 
 #### ANET
-- **Source:** 
+- **Source:** Affective Norms for English Text (ANET)
   - https://csea.phhp.ufl.edu/media/anetmessage.html
 - **Repository:** https://csea.phhp.ufl.edu/media/anetmessage.html
   - To obtain the ANET data you need to fill out an electronic release form.
 
 #### PANIG
-- **Source:** 
+- **Source:** When emotions are expressed figuratively: Psycholinguistic and Affective Norms of 619 Idioms for German (PANIG)
   - https://link.springer.com/article/10.3758/s13428-015-0581-4
-- **Repository:** 
+- **Repository:** Data available in the Electronic Supplementary Material (ESM) section of the Springer web page above.
 
 #### COMETA sentences
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Affective and psycholinguistic norms for German conceptual metaphors (COMETA)
+  - https://link.springer.com/article/10.3758/s13428-019-01300-7
+- **Repository:** Data available in the Electronic Supplementary Material (ESM) section of the Springer web page above.
 
 #### COMETA stories
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Affective and psycholinguistic norms for German conceptual metaphors (COMETA)
+  - https://link.springer.com/article/10.3758/s13428-019-01300-7
+- **Repository:** Data available in the Electronic Supplementary Material (ESM) section of the Springer web page above.
 
 #### CVAT
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Building Chinese Affective Resources in Valence-Arousal Dimensions
+  - https://aclanthology.org/N16-1066/
+- **Repository:** http://nlp.innobic.yzu.edu.tw/resources/ChineseEmoBank.html
 
 #### CVAI
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** A Dimensional Valence-Arousal-Irony Dataset for Chinese Sentence and Context
+  - https://aclanthology.org/2022.rocling-1.19/
+- **Repository:** http://nlp.innobic.yzu.edu.tw/resources/chinese-vai_download.html
 
 #### ANPST
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Affective Norms for 718 Polish Short Texts (ANPST): Dataset with Affective Ratings for Valence, Arousal, Dominance, Origin, Subjective Significance and Source Dimensions
+  - https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01030/full
+- **Repository:** https://figshare.com/s/e4b4e339138f07c63153
 
 #### MAS
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Minho Affective Sentences (MAS): Probing the roles of sex, mood, and empathy in affective ratings of verbal stimuli
+  - https://link.springer.com/article/10.3758/s13428-016-0726-0
+- **Repository:** Data available in the Electronic Supplementary Material (ESM) section of the Springer web page above.
 
 #### Yee
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Valence, arousal, familiarity, concreteness, and imageability ratings for 292 two-character Chinese nouns in Cantonese speakers in Hong Kong
+  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174569#sec014
+- **Repository:** https://figshare.com/articles/dataset/Valence_arousal_familiarity_concreteness_and_imageability_ratings_for_292_two-character_Chinese_nouns_in_Cantonese_speakers_in_Hong_Kong/4791586?file=7883134
 
 #### Ćoso et al.
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Affective and concreteness norms for 3,022 Croatian words
+  - https://journals.sagepub.com/doi/full/10.1177/1747021819834226
+- **Repository:** https://www.ucace.com/app/download/30931812/Supplementary+material_%C4%86oso+et+al.xlsx
  
 #### Moors et al.
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Norms of valence, arousal, dominance, and age of acquisition for 4,300 Dutch words 
+  - https://link.springer.com/article/10.3758/s13428-012-0243-8
+- **Repository:** Data available in the Electronic Supplementary Material (ESM) section of the Springer web page above.
 
 #### Verheyen et al.
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Lexicosemantic, affective, and distributional norms for 1,000 Dutch adjectives
+  - https://link.springer.com/article/10.3758/s13428-019-01303-4
+- **Repository:** https://osf.io/nyg8v/
+- **Download directly here:** https://osf.io/download/6zxej/
 
 #### NRC-VAD
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words
+  - https://aclanthology.org/P18-1017/
+- **Repository:** http://saifmohammad.com/WebPages/nrc-vad.html
+- **Download directly here:** http://saifmohammad.com/WebDocs/Lexicons/NRC-VAD-Lexicon.zip
 
 #### Warriner et al.
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Norms of valence, arousal, and dominance for 13,915 English lemmas
+  - https://link.springer.com/article/10.3758/s13428-012-0314-x
+- **Repository:** Data available in the Electronic Supplementary Material (ESM) section of the Springer web page above.
+- **Download directly here:** https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-012-0314-x/MediaObjects/13428_2012_314_MOESM1_ESM.zip
 
 #### Scott et al.
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** The Glasgow Norms: Ratings of 5,500 words on nine scales
+  - https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-012-0314-x/MediaObjects/13428_2012_314_MOESM1_ESM.zip
+- **Repository:** Data available in the Electronic Supplementary Material (ESM) section of the Springer web page above.
+- **Download directly here:**
+  -
 
 #### Söderholm et al.
 - **Source:** 
@@ -150,9 +155,9 @@ All the datasets used free to use for research purposes, although some require a
 - **Repository:** 
 
 #### CVAW
-- **Source:** 
-  - 
-- **Repository:** 
+- **Source:** Building Chinese Affective Resources in Valence-Arousal Dimensions
+  - https://aclanthology.org/N16-1066/
+- **Repository:** http://nlp.innobic.yzu.edu.tw/resources/ChineseEmoBank.html
 
 #### ANPW_R
 - **Source:** 
