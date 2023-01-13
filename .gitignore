@@ -125,5 +125,13 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# input data, saved log, checkpoints
+data/
+Output Directory/
+model/
+data/
+Preds/
+wandb/
+
 # Pyre type checker
 .pyre/
