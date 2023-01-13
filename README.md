@@ -244,3 +244,12 @@ https://drive.google.com/drive/folders/1CTgIEIDNHhV75qQ7-uovt6oXkiUIAVH8?usp=sha
 
 #### XLM-RoBERTa-large
 https://drive.google.com/drive/folders/1BzdVmN51f33NHrdemJajz67MmlZljB2J?usp=share_link
+
+
+
+## Code
+
+To fine-tune the model please run the file `train_model.py`.
+It expects two arguments:
+- Model: **distilbert** or **xlmroberta-base** or **xlmroberta-large**
+- Loss function: **mse** or **ccc** or **robust** or **mse+ccc** or **robust+ccc**
