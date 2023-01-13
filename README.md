@@ -228,6 +228,13 @@ To reproduce our dataset, follow this procedure:
 
 
 ## Models
+We make available the models we trained, in three different sizes. These three multilingual models support 100 languages.
+- DistilBERT
+  - 134M parameters.
+- XLM-RoBERTa-base
+  - 270M parameters.
+- XLM-RoBERTa-large
+  - 550M parameters.
 
 #### DistilBERT
 https://drive.google.com/drive/folders/1a3ToFHaGQxxAPI4dXc_shUrjROj7OrKt?usp=share_link
