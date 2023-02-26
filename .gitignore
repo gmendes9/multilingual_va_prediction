@@ -132,6 +132,7 @@ model/
 data/
 Preds/
 wandb/
+logs/
 
 # Pyre type checker
 .pyre/
