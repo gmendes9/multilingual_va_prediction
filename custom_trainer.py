@@ -9,7 +9,7 @@ from typing import Optional
 from torch.nn import _reduction as _Reduction
 from torch._C import _infer_size, _add_docstr
 from yaml import warnings
-from utils import pytorch_correlations, pearsonr
+from utils import pearsonr
 from typing import TYPE_CHECKING, Any, Callable, Dict, List, Optional, Tuple, Union
 
 

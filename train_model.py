@@ -5,8 +5,8 @@ from datetime import datetime
 from signal import signal
 from utils import create_prediction_tables, handle_signal
 from data_loader import MyDataset
-from train_any3_fold1 import training_fold1
-from train_any3_fold2 import training_fold2
+from fold1 import training_fold1
+from fold2 import training_fold2
 
 
 

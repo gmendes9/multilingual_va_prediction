@@ -234,8 +234,8 @@ def create_prediction_tables(path):
    
    
    
-   def pearsonr(x, y):
-        """
+def pearsonr(x, y):
+    """
     Mimics `scipy.stats.pearsonr`
 
     Arguments
